@@ -1,0 +1,11 @@
+$color: blue;
+
+body{
+  color: $color;
+}
+
+.active{
+  a{
+    color: red;
+  }
+}
